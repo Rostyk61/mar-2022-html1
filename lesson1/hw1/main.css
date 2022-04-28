@@ -1,0 +1,27 @@
+img{
+    width: 400px;
+}
+h1{
+    background: green;
+    color: white;
+}
+
+h2{
+    background: coral;
+
+}
+a{
+    color: darkblue;
+    text-decoration: none;
+}
+p{
+    background: silver;
+    color: black;
+    text-align: justify;
+}
+ul{
+    background: lightgreen;
+}
+li{
+    background: coral;
+}
